@@ -1,1 +1,1 @@
-Git, Maven, SonarQube, Jenkins, JIRA
+Git, Maven, SonarQube, Jenkins, JIRA, Selenium
